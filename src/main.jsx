@@ -24,8 +24,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         ejemplo: boolean
     */}
     {/* <FirstApp title="titulo asignado desde main" number={12} boolean /> */}
+    <FirstApp />
 
     {/* Componente padre que envia valor 1 en props */}
-    <CounterApp value={1} />
+    {/* <CounterApp value={1} /> */}
   </React.StrictMode>
 );

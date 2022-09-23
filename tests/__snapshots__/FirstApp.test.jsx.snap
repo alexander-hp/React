@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <FirstApp> debe hacer match con el snapshot 1`] = `
+<div>
+  <h1>
+    Alexander
+  </h1>
+  <h2>
+    TITULO
+  </h2>
+  <div
+    data-testid="test-title"
+  >
+     
+    TITULO
+     
+  </div>
+  <p>
+    asignado desde funcion
+  </p>
+  <p>
+    asignado desde funcion
+  </p>
+  <h2>
+     
+    180
+     
+  </h2>
+  <h2>
+     
+    1
+    2
+    3
+    4
+    5
+     
+  </h2>
+  <h2>
+     
+    {"title":"Titulo del objeto","message":"mensaje obj"}
+     
+  </h2>
+  <h2>
+     
+    Mensaje obtenido
+     
+  </h2>
+  <h2>
+     
+    27
+     
+  </h2>
+  <h2
+    class="propTitle"
+  >
+     Props.title: 
+    TITULO
+     
+  </h2>
+  <h2>
+     Props.subtitle: 
+    asignado desde funcion
+     
+  </h2>
+  <h2>
+     Props.number: 
+    NaN
+     
+  </h2>
+  <h2>
+     Props.boolean: 
+     
+  </h2>
+  <p>
+    Soy un parrafo
+  </p>
+</div>
+`;
